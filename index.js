@@ -29,4 +29,4 @@ const countdown = (deadline, element, finalMessage) => {
   }, 1000);
 };
 
-countdown("Apr 15 2023 13:00:00 GMT-0300", "clock", "Final del mensaje");
+countdown("Sep 17 2023 13:30:00 GMT-0300", "clock", "Arranca mi cumple!!!");
